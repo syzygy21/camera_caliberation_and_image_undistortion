@@ -14,5 +14,6 @@ Consider the following example image:
 Also consider the following image that has both the undistorted and original corners plotted on it.
 
 
-<img width="521" alt="output_for_camera_callib" src="https://github.com/user-attachments/assets/941b267d-32cc-465a-b860-37ce818f1843">
+<img width="572" alt="output_for_camera_callibaeration_2" src="https://github.com/user-attachments/assets/9bce790e-88d2-4683-9cb8-512d4b8897d8">
+
 
