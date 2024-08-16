@@ -7,9 +7,11 @@ The code uploaded consists of a pipeline that can be used for image undistortion
    Later then the undistorted corners along with the original corners are plotted.
 Consider the following example image:
 
+
 <img src="https://github.com/user-attachments/assets/cde475b6-1913-4954-a233-9458f31c5967" width="500" height="300">
 
 
 Also consider the following image that has both the undistorted and original corners plotted on it.
+
 
 <img src="https://github.com/user-attachments/assets/28d4ae65-4c36-4397-850e-1fee1fd53fdb" width="500" height="300">
